@@ -1,0 +1,1 @@
+console.log('Admin seeded: username=ownaaaa password=TVC123456@v');
