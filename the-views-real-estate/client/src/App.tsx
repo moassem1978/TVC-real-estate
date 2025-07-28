@@ -1,1 +1,0 @@
-export default function App() { return <h1>The Views Real Estate</h1>; }
